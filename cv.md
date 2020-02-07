@@ -11,3 +11,6 @@ email adress - mccorn13@gmail.com
 
 ##### Codewars account: 
 https://www.codewars.com/users/mccorn
+
+##### Github account: 
+https://github.com/mccorn
