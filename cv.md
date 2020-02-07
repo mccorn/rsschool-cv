@@ -9,8 +9,7 @@ email adress - mccorn13@gmail.com
 * JS
 * React
 
-##### Codewars account: 
-https://www.codewars.com/users/mccorn
+##### [Codewars](https://www.codewars.com/users/mccorn) account 
 
-##### Github account: 
-https://github.com/mccorn
+##### [Github](https://github.com/mccorn) account
+
