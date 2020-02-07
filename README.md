@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://mccorn.github.io/rsschool-cv/cv
